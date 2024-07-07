@@ -51,18 +51,3 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
-#start-btn {
-  background-color: #2ECC71; /* Green color */
-  color: white;
-  border: none;
-  padding: 15px 30px;
-  font-size: 1.2em;
-  cursor: pointer;
-  border-radius: 5px;
-  margin-bottom: 20px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-#start-btn:hover {
-  background-color: #27AE60;
-}
